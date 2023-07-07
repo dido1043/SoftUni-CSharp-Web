@@ -1,0 +1,15 @@
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\bin\Debug\net6.0\FirstApp.exe
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\bin\Debug\net6.0\FirstApp.deps.json
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\bin\Debug\net6.0\FirstApp.runtimeconfig.json
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\bin\Debug\net6.0\FirstApp.dll
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\bin\Debug\net6.0\FirstApp.pdb
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\FirstApp.csproj.AssemblyReference.cache
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfoInputs.cache
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\FirstApp.AssemblyInfo.cs
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\FirstApp.dll
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\refint\FirstApp.dll
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\FirstApp.pdb
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll

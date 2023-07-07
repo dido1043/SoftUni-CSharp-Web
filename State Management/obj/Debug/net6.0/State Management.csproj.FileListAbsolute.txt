@@ -1,0 +1,15 @@
+D:\softuni\SoftUni-CSharp-Web\State Management\bin\Debug\net6.0\State Management.exe
+D:\softuni\SoftUni-CSharp-Web\State Management\bin\Debug\net6.0\State Management.deps.json
+D:\softuni\SoftUni-CSharp-Web\State Management\bin\Debug\net6.0\State Management.runtimeconfig.json
+D:\softuni\SoftUni-CSharp-Web\State Management\bin\Debug\net6.0\State Management.dll
+D:\softuni\SoftUni-CSharp-Web\State Management\bin\Debug\net6.0\State Management.pdb
+D:\softuni\SoftUni-CSharp-Web\State Management\obj\Debug\net6.0\State Management.csproj.AssemblyReference.cache
+D:\softuni\SoftUni-CSharp-Web\State Management\obj\Debug\net6.0\State Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\SoftUni-CSharp-Web\State Management\obj\Debug\net6.0\State Management.AssemblyInfoInputs.cache
+D:\softuni\SoftUni-CSharp-Web\State Management\obj\Debug\net6.0\State Management.AssemblyInfo.cs
+D:\softuni\SoftUni-CSharp-Web\State Management\obj\Debug\net6.0\State Management.csproj.CoreCompileInputs.cache
+D:\softuni\SoftUni-CSharp-Web\State Management\obj\Debug\net6.0\State Management.dll
+D:\softuni\SoftUni-CSharp-Web\State Management\obj\Debug\net6.0\refint\State Management.dll
+D:\softuni\SoftUni-CSharp-Web\State Management\obj\Debug\net6.0\State Management.pdb
+D:\softuni\SoftUni-CSharp-Web\State Management\obj\Debug\net6.0\State Management.genruntimeconfig.cache
+D:\softuni\SoftUni-CSharp-Web\State Management\obj\Debug\net6.0\ref\State Management.dll

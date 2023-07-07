@@ -1,0 +1,15 @@
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\bin\Debug\net6.0\project1.exe
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\bin\Debug\net6.0\project1.deps.json
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\bin\Debug\net6.0\project1.runtimeconfig.json
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\bin\Debug\net6.0\project1.dll
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\bin\Debug\net6.0\project1.pdb
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\obj\Debug\net6.0\project1.csproj.AssemblyReference.cache
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\obj\Debug\net6.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\obj\Debug\net6.0\project1.AssemblyInfoInputs.cache
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\obj\Debug\net6.0\project1.AssemblyInfo.cs
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\obj\Debug\net6.0\project1.csproj.CoreCompileInputs.cache
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\obj\Debug\net6.0\project1.dll
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\obj\Debug\net6.0\refint\project1.dll
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\obj\Debug\net6.0\project1.pdb
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\obj\Debug\net6.0\project1.genruntimeconfig.cache
+D:\softuni\SoftUni-CSharp-Web\Asyncronus programming\project1\obj\Debug\net6.0\ref\project1.dll
