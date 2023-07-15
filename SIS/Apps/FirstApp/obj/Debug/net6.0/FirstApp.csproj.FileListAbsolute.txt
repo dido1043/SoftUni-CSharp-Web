@@ -13,3 +13,6 @@ D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\refint\FirstApp
 D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\FirstApp.pdb
 D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\FirstApp.genruntimeconfig.cache
 D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\ref\FirstApp.dll
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\bin\Debug\net6.0\SIS.HTTP.dll
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\bin\Debug\net6.0\SIS.HTTP.pdb
+D:\softuni\SoftUni-CSharp-Web\SIS\Apps\FirstApp\obj\Debug\net6.0\FirstApp.csproj.CopyComplete

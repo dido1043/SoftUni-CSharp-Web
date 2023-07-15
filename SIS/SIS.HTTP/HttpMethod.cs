@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace SIS.HTTP
 {
-    public interface IHttpServer
+    public enum HttpMethod
     {
-        void AddRoute(string path, Func<HttpRequest, HttpResponse> action);
-        Task StartAsync(int port);
+        Get,
+        Post,
+        Put,
+        Delete
     }
 }

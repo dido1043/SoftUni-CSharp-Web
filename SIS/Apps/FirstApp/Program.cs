@@ -1,31 +1,33 @@
-﻿namespace FirstApp
+﻿using SIS.HTTP;
+
+namespace FirstApp
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            var server = new HttpServer();
+            IHttpServer server = new HttpServer();
 
 
             server.AddRoute("/", HomePage);
             server.AddRoute("/about", About);
             server.AddRoute("/users/login", Login);
 
-            server.Start(80);
+            server.StartAsync(80);
         }
 
         static HttpResponse HomePage(HttpRequest request)
         {
-
+            throw new NotImplementedException();
         }
         static HttpResponse About(HttpRequest request)
         {
-
+            throw new NotImplementedException();
         }
 
         static HttpResponse Login(HttpRequest request)
         {
-
+            throw new NotImplementedException();
         }
     }
 }

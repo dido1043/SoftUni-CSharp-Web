@@ -1,0 +1,12 @@
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\bin\Debug\net6.0\SIS.MvcFramework.deps.json
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\bin\Debug\net6.0\SIS.MvcFramework.dll
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\bin\Debug\net6.0\SIS.MvcFramework.pdb
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\obj\Debug\net6.0\SIS.MvcFramework.csproj.AssemblyReference.cache
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\obj\Debug\net6.0\SIS.MvcFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\obj\Debug\net6.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\obj\Debug\net6.0\SIS.MvcFramework.AssemblyInfo.cs
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\obj\Debug\net6.0\SIS.MvcFramework.csproj.CoreCompileInputs.cache
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\obj\Debug\net6.0\SIS.MvcFramework.dll
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\obj\Debug\net6.0\refint\SIS.MvcFramework.dll
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\obj\Debug\net6.0\SIS.MvcFramework.pdb
+D:\softuni\SoftUni-CSharp-Web\SIS\SIS.MvcFramework\obj\Debug\net6.0\ref\SIS.MvcFramework.dll

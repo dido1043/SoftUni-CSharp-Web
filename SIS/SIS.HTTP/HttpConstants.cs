@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace SIS.HTTP
 {
-    public interface IHttpServer
+    public static class HttpConstants
     {
-        void AddRoute(string path, Func<HttpRequest, HttpResponse> action);
-        Task StartAsync(int port);
+        public const string NewLine = "\r\n";
+        public const string RequestCookieHeader = "Cookie";
     }
 }
