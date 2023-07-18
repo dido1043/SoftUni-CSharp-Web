@@ -6,9 +6,9 @@ namespace SIS.HTTP
 {
     public class HttpServer : IHttpServer
     {
-        
-        IDictionary<string, Func<HttpRequest,HttpResponse>> routeTable =
-            new Dictionary<string, Func<HttpRequest,HttpResponse>>();
+
+        IDictionary<string, Func<HttpRequest, HttpResponse>> routeTable =
+            new Dictionary<string, Func<HttpRequest, HttpResponse>>();
 
         public void AddRoute(string path, Func<HttpRequest, HttpResponse> action)
         {
@@ -24,7 +24,7 @@ namespace SIS.HTTP
 
         public async Task StartAsync(int port)
         {
-            TcpListener listener = 
+            TcpListener listener =
                 new TcpListener(IPAddress.Loopback, port);
             listener.Start();
             while (true)
@@ -70,22 +70,24 @@ namespace SIS.HTTP
                 var requestAsString = Encoding.UTF8.GetString(data.ToArray());
 
                 var request = new HttpRequest(requestAsString);
+
+                HttpResponse response;
                 Console.WriteLine(requestAsString);
+                if(this.routeTable.ContainsKey(request.Path))
+                {
+                    var action = this.routeTable[request.Path];
+                    response = action(request);
+                }
+                else
+                {
+                    response = new HttpResponse("text/html", new byte[0], HttpStatus.NotFound);
+                }
 
-                var responseHtml = "<h1>Welcome</h1>" +
-                    request.Headers.FirstOrDefault(x => x.Name == "User-Agent")?.Value;
-
-                var responseBodyBytes = Encoding.UTF8.GetBytes(responseHtml);
-
-                var resonseHttp = "HTTP/1.1 200 ok" + HttpConstants.NewLine +
-                    "Server: SIS Server 1.0" + HttpConstants.NewLine +
-                    "Content-Type: text/html" + HttpConstants.NewLine +
-                    "Content-Length: " + responseBodyBytes.Length + HttpConstants.NewLine +
-                    HttpConstants.NewLine;
-
-                var responseHeaderBytes = Encoding.UTF8.GetBytes(resonseHttp);
+                
+                var responseHeaderBytes = Encoding.UTF8.GetBytes(response.ToString());
                 await stream.WriteAsync(responseHeaderBytes, 0, responseHeaderBytes.Length);
-                await stream.WriteAsync(responseBodyBytes, 0, responseBodyBytes.Length);
+                await stream.WriteAsync(response.Body, 0, response.Body.Length);
+                Console.WriteLine(response.ToString());
 
                 client.Close();
             }
@@ -96,6 +98,6 @@ namespace SIS.HTTP
             }
 
         }
-        
+
     }
 }
